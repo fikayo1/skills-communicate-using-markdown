@@ -13,3 +13,6 @@ print(newfoo)
 >>> ["I", "am", "a", "nice", "man"]
 ```
 
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
